@@ -1,5 +1,5 @@
 # decorpaints
-static page and simple
+Static page and simple
 
 Simple project of static pictures and little bit of information of the company, the idea is to arrive at a good layout and a proyect
 final presentable.
